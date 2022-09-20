@@ -1,10 +1,6 @@
 
 package Electricity_bill;
 
-/**
- *
- * @author user
- */
 public class Ebill extends javax.swing.JFrame {
         
     
