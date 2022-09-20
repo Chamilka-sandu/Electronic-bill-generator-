@@ -4,9 +4,7 @@ package Electricity_bill;
 public class Ebill extends javax.swing.JFrame {
         
     
-    /**
-     * Creates new form Ebill
-     */
+   
     public Ebill() {
         initComponents();
     }
